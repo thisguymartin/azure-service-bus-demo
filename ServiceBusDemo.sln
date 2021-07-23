@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SBSender", "SBSender\SBSender.csproj", "{45496086-0537-44BE-9470-5FFAE4AD6093}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SBShared", "SBShared\SBShared.csproj", "{AF1CA45D-59BA-4D1F-AE4B-99C361C46633}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SBReceiver", "SBReceiver\SBReceiver.csproj", "{C15544FA-6938-4E58-9105-10A206FDC3C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45496086-0537-44BE-9470-5FFAE4AD6093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45496086-0537-44BE-9470-5FFAE4AD6093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45496086-0537-44BE-9470-5FFAE4AD6093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45496086-0537-44BE-9470-5FFAE4AD6093}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF1CA45D-59BA-4D1F-AE4B-99C361C46633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF1CA45D-59BA-4D1F-AE4B-99C361C46633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF1CA45D-59BA-4D1F-AE4B-99C361C46633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF1CA45D-59BA-4D1F-AE4B-99C361C46633}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C15544FA-6938-4E58-9105-10A206FDC3C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C15544FA-6938-4E58-9105-10A206FDC3C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C15544FA-6938-4E58-9105-10A206FDC3C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C15544FA-6938-4E58-9105-10A206FDC3C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D61F5227-14E2-443E-8D5B-C964CA268996}
+	EndGlobalSection
+EndGlobal
